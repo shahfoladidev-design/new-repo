@@ -1,0 +1,10 @@
+# Keep Vercel CLI uploads small (GitHub deploys already use .gitignore)
+node_modules
+.next
+.git
+.cursor
+.vercel
+peace-hope-media
+Shah-Foladi-Exact-Logo-Web-Icons
+*.pdf
+tsconfig.tsbuildinfo
